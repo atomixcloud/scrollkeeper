@@ -1,0 +1,13 @@
+Source: scrollkeeper
+Section: devel
+Priority: optional
+Maintainer: Kirubakaran Shanmugam <kribakarans@gmail.com>
+Build-Depends: debhelper (>=11~), dh-autoreconf
+Standards-Version: 4.1.4
+Homepage: http://scrollkeeper.sourceforge.net
+
+Package: scrollkeeper
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: ScrollKeeper is a cataloging system for documentation on open systems.
