@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 19 Oct 2022 21:06:57 +0530
+Source: scrollkeeper
+Binary: scrollkeeper
+Architecture: amd64
+Version: 0.3.14-0
+Distribution: focal
+Urgency: low
+Maintainer: Kirubakaran Shanmugam <kribakarans@gmail.com>
+Changed-By: Kirubakaran Shanmugam <kribakarans@gmail.com>
+Description:
+ scrollkeeper - ScrollKeeper is a cataloging system for documentation on open sys
+Changes:
+ scrollkeeper (0.3.14-0) focal; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ 820a05e8cafefcb2a082683e9d4736183ec86176 119244 scrollkeeper-dbgsym_0.3.14-0_amd64.ddeb
+ ca62165875f52a2e2e40f72f83776eaf467dae0e 5464 scrollkeeper_0.3.14-0_amd64.buildinfo
+ 1d1fb0a670706812b33350899c74803d1aa16cb6 227324 scrollkeeper_0.3.14-0_amd64.deb
+Checksums-Sha256:
+ be0b9ad0a5156becc46395f67c1314ccbf82a3050c4fa6b9e13d6cd0afdc83a7 119244 scrollkeeper-dbgsym_0.3.14-0_amd64.ddeb
+ e684bd5f075d5a1332ea7d7031e84dab3517dc31af0e76f5311b93da70ebac87 5464 scrollkeeper_0.3.14-0_amd64.buildinfo
+ 239683a639d400b98e09f36253f999ed3862728cb0821b5ee45833b3ce51a4fd 227324 scrollkeeper_0.3.14-0_amd64.deb
+Files:
+ 1450556309a81c84cac39bc127120dc2 119244 debug optional scrollkeeper-dbgsym_0.3.14-0_amd64.ddeb
+ c6d69daa491233f1864474482a416183 5464 devel optional scrollkeeper_0.3.14-0_amd64.buildinfo
+ 6a78ea387374ac49cd095148ca0dc51f 227324 devel optional scrollkeeper_0.3.14-0_amd64.deb
